@@ -1,0 +1,5 @@
+
+isquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(Òµ¬Î8Ý®Àý¼-
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(áÊ×Äýÿÿÿÿ8óƒ¯Û¼-
+Msquid:S2115¢")Add password protection to this database.(‹É÷úÿÿÿÿ8ºŠÓ÷¼-
+Fsquid:S1148&"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8üïÃý¼-
