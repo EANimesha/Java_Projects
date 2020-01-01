@@ -14,6 +14,7 @@ public class User {
     private boolean shared;
     private String locale;
     private String timezone;
+    private int organization_id;
 
     public String toString(){
         StringBuilder sb=new StringBuilder();
@@ -29,7 +30,7 @@ public class User {
         return sb.toString();
     }
 
-    public int _id() {
+    public int get_id() {
         return _id;
     }
 
@@ -115,5 +116,13 @@ public class User {
 
     public void setTimezone(String timezone) {
         this.timezone = timezone;
+    }
+
+    public int getOrganization_id() {
+        return organization_id;
+    }
+
+    public void setOrganization_id(int organization_id) {
+        this.organization_id = organization_id;
     }
 }
