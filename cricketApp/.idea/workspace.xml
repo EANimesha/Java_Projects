@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a701ff2-5fc4-435c-a913-d832a873ac08" name="Default" comment="" />
+    <list default="true" id="5a701ff2-5fc4-435c-a913-d832a873ac08" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search_app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../search_app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search_app/src/main/java/com/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search_app/src/main/java/com/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search_app/src/main/java/com/app/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search_app/src/main/java/com/app/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search_app/target/classes/com/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../search_app/target/classes/com/app/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search_app/target/classes/com/app/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../search_app/target/classes/com/app/models/User.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

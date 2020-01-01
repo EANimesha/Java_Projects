@@ -17,11 +17,19 @@ public class User {
 
     public String toString(){
         StringBuilder sb=new StringBuilder();
-        sb.append("id="+get_id()+"\n");
+        sb.append("external_id="+getExternal_id()+"\n");
+        sb.append("name="+getName()+"\n");
+        sb.append("alias="+getAlias()+"\n");
+        sb.append("created_at="+getCreated_at()+"\n");
+        sb.append("active="+isActive()+"\n");
+        sb.append("verified="+isVerified()+"\n");
+        sb.append("shared="+isShared()+"\n");
+        sb.append("locale="+getLocale()+"\n");
+        sb.append("timezone="+getTimezone()+"\n");
         return sb.toString();
     }
 
-    public int get_id() {
+    public int _id() {
         return _id;
     }
 
