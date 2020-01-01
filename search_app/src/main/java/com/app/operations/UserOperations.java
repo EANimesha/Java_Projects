@@ -27,8 +27,6 @@ public class UserOperations {
            result=result+"ticket"+(i++)+" = "+ticket.getSubject()+"\n";
         }
 
-        Ticket ticket=repository.getTicket("submitter_id","71");
-        System.out.println(ticket.getName());
         return result;
     }
 }

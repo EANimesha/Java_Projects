@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a701ff2-5fc4-435c-a913-d832a873ac08" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Junior_hack_search/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Junior_hack_search/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../search_app/src/main/java/com/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search_app/src/main/java/com/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../search_app/src/main/java/com/app/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search_app/src/main/java/com/app/models/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../search_app/target/classes/com/app/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../search_app/target/classes/com/app/Main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../search_app/target/classes/com/app/Main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search_app/src/main/java/com/app/operations/OrganizationOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search_app/src/main/java/com/app/operations/OrganizationOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search_app/src/main/java/com/app/operations/UserOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../search_app/src/main/java/com/app/operations/UserOperations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../search_app/target/classes/com/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../search_app/target/classes/com/app/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../search_app/target/classes/com/app/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../search_app/target/classes/com/app/models/User.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
